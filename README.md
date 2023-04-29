@@ -1,5 +1,5 @@
         # Klasifikasi K-NN #
-Tugas Pertemuan ke-5 - Klasifikasi K-NN
+Tugas Pertemuan ke-6 - Klasifikasi K-NN
 ========================================
 Nama   : Nibras Bahy Ardyansyah
 
